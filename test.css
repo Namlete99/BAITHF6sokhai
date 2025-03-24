@@ -1,0 +1,55 @@
+/* Xóa gạch chân & đổi màu mặc định */
+a {
+  text-decoration: none;
+  color: blue; /* Màu bình thường */
+  font-size: 15px;
+  font-family: "Times New Roman", serif;
+  transition: color 0.3s ease; /* Hiệu ứng mượt */
+}
+
+/* Khi di chuột vào, đổi màu */
+a:hover {
+  color: orange; /* Đổi thành màu đỏ */
+}
+
+.title {
+  font-family: "Times New Roman", serif;
+  font-style: normal;
+  color: orange;
+  font-size: 50px;
+}
+
+.title1 {
+  font-family: "Times New Roman", serif;
+  font-style: normal;
+  color: blue;
+  font-size: 20px;
+}
+
+.title2 {
+  font-family: "Times New Roman", serif;
+  font-style: normal;
+  color: blue;
+  font-size: 30px;
+}
+
+.table {
+  border-collapse: collapse;
+  border: 1px solid blue; /* Viền xanh nước biển */
+}
+
+.table th,
+.table td {
+  border: 1px solid blue; /* Viền xanh nước biển */
+  padding: 8px;
+  text-align: center;
+}
+
+/* test */
+table a:hover {
+  color: orange;
+}
+
+table a.active {
+  color: red; /* Màu khi đang ở trang đó */
+}

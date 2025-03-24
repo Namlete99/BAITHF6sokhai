@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kỉ yếu lớp 12A</title>
+    <link rel="stylesheet" href="./test.css" type="text/css" />
+  </head>
+  <body>
+    <!--Phần đầu lớp web-->
+    <table width="100%" border="0" cellspacing="0">
+      <!--Phần Tiêu đề trang-->
+      <tr>
+        <td colspan="2" align="center">
+          <font face="Times New Roman" size="10px" color="orange"
+            ><b>Kỉ yếu lớp 12A</b>
+          </font>
+        </td>
+      </tr>
+      <!-- Để khi cần hình dung bố cục web      
+      <tr>
+        <td width="10%" valign="top">Phần mục</td>
+        <td>Phần Iframe</td>
+      </tr>
+      -->
+    </table>
+    <!--Phần thân trang web -->
+    <table border="1" cellspacing="0" width="10%" valign="top">
+      <!--Phần mục (bảng 1)-->
+      <tr>
+        <td>
+          <a href="gioithieu.html" target="iframe_noidung" class="active"
+            >Trang chủ</a
+          >
+        </td>
+      </tr>
+      <tr></tr>
+      <tr>
+        <td><a href="hoatdong.html" target="iframe_noidung">Hoạt động</a></td>
+      </tr>
+      <tr>
+        <td>
+          <a href="thanhvienlop.html" target="iframe_noidung">Thành viên lớp</a>
+        </td>
+      </tr>
+    </table>
+    <!--Phần nội dung của mục (bảng 2)-->
+    <table width="100%" height="1000px" border="0" cellspacing="0">
+      <tr>
+        <td width="10%" valign="top"></td>
+        <td>
+          <iframe
+            src="gioithieu.html"
+            name="iframe_noidung"
+            width="100%"
+            height="1000px"
+            frameborder="0"
+          ></iframe>
+        </td>
+      </tr>
+    </table>
+    <hr />
+    <!--Chân trang-->
+    <center>
+      <header>
+        <font face="Times New Roman" size="3">
+          <h2>Dễ dàng truy cập và theo dõi</h2>
+          <p>
+            Bạn đang ghé thăm kỉ yếu lớp 12A6 - Xin cảm ơn đã quan tâm kỉ yếu
+            của lớp 12A6
+          </p>
+        </font>
+      </header>
+      <footer>
+        <font size="3px">© Copyright, Lớp 12A6 2024 - 2025</font>
+      </footer>
+    </center>
+    <!--java test-->
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        let links = document.querySelectorAll("table a");
+        let currentUrl = window.location.href;
+
+        links.forEach((link) => {
+          link.addEventListener("click", function () {
+            links.forEach((l) => l.classList.remove("active"));
+            this.classList.add("active");
+          });
+
+          if (currentUrl.includes(link.getAttribute("href"))) {
+            link.classList.add("active");
+          }
+        });
+      });
+    </script>
+  </body>
+</html>
