@@ -9,4 +9,4 @@
 
 +testcss: Dù sao cuối kì các mọi cũng học css nên giới thiệu luôn css nó như công cụ để trang trí cho thêm tí hoa lá họe, phong phú trang web. Trong bài này mình sử dụng css cho các mục chính hiện ở phần index.html và bảng phần "thành viên lớp" (thanhvienlop.html).
 
-Đó chỉ là ba ý chính tóm lược lại trong bài mà mik đăng trong cho mọi người, nếu muốn chi tiết cụ thể hơn có thể xem file phantichHTML.md. 
+Đó chỉ là ba ý chính tóm lược lại trong bài mà mik đăng trong cho mọi người, nếu muốn chi tiết cụ thể hơn có thể xem file PhantichHTML.md. 
