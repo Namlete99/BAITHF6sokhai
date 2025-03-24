@@ -1,7 +1,7 @@
 # BAITHF6sokhai
-Written 18/03/2025 by Nôm Lee 
+## Written 18/03/2025 by Nôm Lee 
 
-# Đọc trước khi sử dụng các file trên:
+### Đọc trước khi sử dụng các file trên:
 
 +index.html: trang chủ chính của trang web
 
