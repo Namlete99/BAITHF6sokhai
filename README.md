@@ -1,6 +1,6 @@
 # BAITHF6TIN12
 ---
-## Written 18/03/2025 by Nôm Lee 
+## WRITTEN 18/03/2025 BY NÔM LEE
 
 ### Tóm lược cẩm nang sử dụng các file trên:
 
