@@ -332,7 +332,7 @@ Vì danh sách lớp tận 46 thành viên, nên mình chỉ lấy ví dụ mộ
 Nếu danh sách lớp có nhiều người, có thể dùng JavaScript để hiển thị danh sách từ JSON, thay vì viết HTML thủ công.
 
 **Bước 1: Tạo `data.js` (danh sách thành viên)**
-```html
+```java
 const members = [
   { stt: 1, name: "Lê Huỳnh Duy Anh", birth: "25/06/2007", role: "TNXK" },
   { stt: 2, name: "Nguyễn Văn A", birth: "10/08/2007", role: "Lớp trưởng" },
@@ -400,7 +400,7 @@ Cuối cùng trong cái dự án này là file `test.css`, file này các bạn 
 
 ### 1. Định dạng chung cho thẻ <a> (liên kết)
 
-```html
+```css
 a {
   text-decoration: none;
   color: blue; /* Màu chữ mặc định của liên kết */
@@ -418,7 +418,7 @@ a {
 ---
 
 ### 2. Hiệu ứng khi di chuột vào liên kết `(hover)`
-```html
+```css
 a:hover {
   color: orange; /* Khi di chuột vào, đổi màu thành cam */
 }
@@ -430,7 +430,7 @@ a:hover {
 
 ### 3. Định dạng các tiêu đề (`title`, `title1`, `title2`)
 
-```html
+```css
 .title {
   font-family: "Times New Roman", serif;
   font-style: normal;
@@ -443,7 +443,7 @@ a:hover {
   - Màu chữ cam (orange).
   - Kích thước chữ 50px (rất lớn).
 
-```html
+```css
 .title1 {
   font-family: "Times New Roman", serif;
   font-style: normal;
@@ -456,7 +456,7 @@ a:hover {
   - Màu chữ xanh dương (blue).
   - Kích thước chữ 20px.
 
-```html
+```css
 .title2 {
   font-family: "Times New Roman", serif;
   font-style: normal;
@@ -470,7 +470,7 @@ a:hover {
 
 ### 4. Định dạng bảng `(.table)`
 
-```html
+```css
 .table {
   border-collapse: collapse;
   border: 1px solid blue; /* Viền xanh nước biển */
@@ -481,7 +481,7 @@ a:hover {
 
 ***4.1. Định dạng tiêu đề và nội dung bảng***
 
-```html
+```css
 .table th,
 .table td {
   border: 1px solid blue; /* Viền xanh nước biển */
@@ -497,14 +497,14 @@ a:hover {
 
 ### 5. Định dạng đặc biệt cho liên kết trong bảng
 
-```html
+```css
 table a:hover {
   color: orange;
 }
 ```
 - Khi di chuột vào liên kết bên trong bảng, màu chữ đổi thành cam.
 
-```html
+```css
 table a.active {
   color: red; /* Màu khi đang ở trang đó */
 }
