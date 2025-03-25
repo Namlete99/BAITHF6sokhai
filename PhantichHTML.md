@@ -1,8 +1,8 @@
  **WRITTEN 20/03/2025 BY NÔM LEE**
  ## Mục lục   
-- [Mục đích của File PhantichHTML.md này là gì?](#muc-dich-cua-file-phantichhtmlmd-nay-la-gi)  
-- [Hiểu gì?](#hieu-gi)  
-- [Chuyên mục rán gà, đảo cánh](chuyen-muc-ran-ga-dao-canh)
+- [Mục đích của File PhantichHTML.md này là gì?](#i-muc-dich-cua-file-phantichhtmlmd-nay-la-gi)  
+- [Hiểu gì?](#1-hieu-gi)  
+- [Chuyên mục rán gà, đảo cánh](#2-chuyen-muc-ran-ga-dao-canh)
 
 ---
 
