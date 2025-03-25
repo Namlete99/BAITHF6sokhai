@@ -16,12 +16,16 @@ Vì web mình đang làm bị lỗi khi áp dụng cho điện thoại, nên mik
 
 ***
 
-***Nếu có thắc mắc có thể liên lạc qua các tài khoản sau:***
+***Nếu có thắc mắc có thể liên lạc cá nhân có thể qua các tài khoản sau:***
 
 - **Emali** :Ruicostanam91@gmail.com
 - **SĐT Zalo**: 0398121508
 - **Facebook**: [Nguyễn Lê Nam](https://www.facebook.com/profile.php?id=100083199168370&locale=vi_VN)
 - **Linkedlin**: [Nam Nguyễn](https://www.linkedin.com/in/nam-nguy%E1%BB%85n-50783133b/)
+
+***Nếu muốn bình luận trực tiếp vào trong đây có thể theo hướng dẫn sau***
+
+Trên thanh nằm giữa `<>Code` và `Pull requests` là `Issues`. Sau đó các bạn thấy ô hình chữ nhật màu xanh lá cây `New Issues`, từ đó các bạn có thể comments trên đó để hỏi hay nhận xét, góp ý ..vv..
 
 ***
 **-THE END-**
