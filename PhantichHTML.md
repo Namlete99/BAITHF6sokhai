@@ -2,7 +2,7 @@
  ## Mục lục   
 - [Mục đích của File PhantichHTML.md này là gì?](#muc-dich-cua-file-phantichhtmlmd-nay-la-gi)  
 - [Hiểu gì?](#hieu-gi)  
-
+- [Chuyên mục rán gà, đảo cánh](chuyen-muc-ran-ga-dao-canh)
 
 ---
 
