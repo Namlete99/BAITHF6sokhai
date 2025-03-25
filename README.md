@@ -12,7 +12,7 @@
 
 Đó chỉ là ba ý chính tóm lược lại trong bài mà mik đăng trong cho mọi người, nếu muốn đào sâu chi tiết, cụ thể, hiểu và phân tích rõ hơn các dòng lệnh có thể xem file `PhantichHTML.md`. 
 
-Vì web mình đang làm bị lỗi khi áp dụng cho điện thoại, nên mik sẽ hướng dẫn các bạn cách đưa dòng lệnh để ra sản phẩm tham khảo ở file `huongdanvietHTML.md`
+Vì web mình đang làm bị lỗi khi áp dụng cho điện thoại, nên mik sẽ hướng dẫn các bạn cách sử dụng công cụ quan trọng là phần mềm VSC (viết tắt visual studio code) đưa những dòng lệnh ở các file trên để ra sản phẩm và còn nhiều phụ kiện khác. Tham khảo ở file `huongdanvietHTML.md`
 
 ***
 
