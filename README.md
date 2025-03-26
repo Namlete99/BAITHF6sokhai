@@ -14,6 +14,10 @@
 
 Vì web mình đang làm bị lỗi khi áp dụng cho điện thoại, nên mik sẽ hướng dẫn các bạn cách sử dụng công cụ quan trọng là phần mềm VSC (viết tắt visual studio code) đưa những dòng lệnh ở các file trên để ra sản phẩm và còn nhiều phụ kiện khác mình đã đóng gói. Tham khảo ở file `huongdanvietHTML.md`
 
+Nếu muốn xem qua thành quả sản phẩm trước khi xem các dòng lệnh các file thì click vào đường link này: https://namlete99.github.io/BAITHF6sokhai/
+
+Sản phẩm chỉ là sơ khai các nhóm làm tự thêm mắm muối gì tự thêm nhé. 
+
 ***
 
 ***Nếu có thắc mắc có thể liên lạc cá nhân có thể qua các tài khoản sau:***
